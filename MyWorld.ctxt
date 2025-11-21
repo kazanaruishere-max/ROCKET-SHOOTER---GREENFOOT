@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=MyWorld
+comment1.params=
+comment1.target=MyWorld()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=points
+comment3.target=void\ addScore(int)
+comment4.params=
+comment4.target=void\ updateScore()
+comment5.params=health
+comment5.target=void\ updateHealth(int)
+comment6.params=
+comment6.target=void\ gameOver()
+comment7.params=
+comment7.target=void\ prepare()
+numComments=8
